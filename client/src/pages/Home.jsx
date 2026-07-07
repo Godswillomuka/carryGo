@@ -1,9 +1,9 @@
-import ContactNav from "../components/contactNav";
+import Header from "../components/Header";
 
 function Home() {
   return (
     <>
-    <ContactNav />
+    <Header />
     <div>
       
       <h1>Welcome to the Home Page</h1>
